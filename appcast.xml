@@ -5,6 +5,18 @@
         <link>https://raw.githubusercontent.com/TheMulhima/Lumafly/master/appcast.xml</link>
         <language>en</language>
         <item>
+            <title>Lumafly Update v3.4.0.0-alpha</title>
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/TheMulhima/Lumafly/static-resources/Changelogs/v3.4.0.0-alpha.md
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 17 Jan 2026 22:04:50 +0000</pubDate>
+            <enclosure url="https://github.com/TheMulhima/Lumafly/releases/download/v3.4.0.0-alpha/Lumafly.AU.exe"
+                sparkle:version="3.4.0.0-alpha"
+                sparkle:os="windows"
+                length="12288"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Lumafly Update v3.3.0.0</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/TheMulhima/Lumafly/static-resources/Changelogs/v3.3.0.0.md
